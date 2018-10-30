@@ -1,7 +1,8 @@
 ﻿html, body {
   margin: 0;
   padding: 0;
-  background-color: #282828;
+  background-image: url("https://osurobotics.club/wp-content/uploads/2017/10/cropped-DSC_0114-3.jpg");
+  background-size:100%;
   height: 100%;
   z-index: -1;
 }
