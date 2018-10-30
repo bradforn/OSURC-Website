@@ -30,6 +30,44 @@ app.get('/about', function (req, res) {
   });
 });
 
+app.get('/about-club-histoy', function (req, res) {
+  res.render('about-club-history-page', {
+    title: 'About Me',
+
+  });
+});
+
+app.get('/about-leadership', function (req, res) {
+  res.render('about-leadership-page', {
+    title: 'About Me',
+
+  });
+});
+
+
+app.get('/about-alumni', function (req, res) {
+  res.render('about-alumni-page', {
+    title: 'About Me',
+
+  });
+});
+
+
+app.get('/about-sponsership', function (req, res) {
+  res.render('about-sponsership-page', {
+    title: 'About Me',
+
+  });
+});
+
+
+app.get('/projects-mars-rover', function (req, res) {
+  res.render('projects-mars-rover-page', {
+    title: 'About Me',
+
+  });
+});
+
 app.get('/resume', function (req, res) {
   res.render('resume-page', {
     title: 'Resume',
