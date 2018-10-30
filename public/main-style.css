@@ -1,4 +1,4 @@
-html, body {
+﻿html, body {
   margin: 0;
   padding: 0;
   background-image: url("https://osurobotics.club/wp-content/uploads/2017/10/cropped-DSC_0114-3.jpg");
@@ -11,7 +11,7 @@ html, body {
 .info-container {
   overflow-y: auto;
   overflow-x: hidden;
-  width: 100%
+  width: 100%;
   right: 5%;
   top: 5%;
   z-index: -1;
