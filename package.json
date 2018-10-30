@@ -1,0 +1,18 @@
+{
+  "name": "nickwbradford_express",
+  "version": "1.0.0",
+  "description": "This is a version of my personal website build using express, handlebars, and express handlebars",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "bradforn",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.12",
+    "particlesjs": "^2.2.3",
+    "path": "^0.12.7"
+  }
+}

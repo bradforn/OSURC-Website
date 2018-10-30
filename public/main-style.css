@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #282828;
+  height: 100%;
+  z-index: -1;
+}
+
+
+.info-container {
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 100%
+  right: 5%;
+  top: 5%;
+  z-index: -1;
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: #63ffef;
+  background-color: #282828;
+  opacity: .98;
+
+}
