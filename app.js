@@ -23,9 +23,13 @@ app.get('/', function (req, res) {
   });
 });
 
+//there is alot of these so I will comment one of the extremely and the the format follows:
 app.get('/about', function (req, res) {
+  //if the got to localhost:port/about {{{body}}} set body to this...
   res.render('./about/about-page', {
+    //body is located is located in views/about/about-page.handlebars
     title: 'About Me',
+    //sent title of the page to be 'About Me'
 
   });
 });
@@ -167,14 +171,18 @@ app.get('/search', function (req, res) {
 
 // Return a 404 and render the 404 page for any other route.
 app.get('*', function (req, res) {
+  //* is a wildcard meaning everything
   res.render('404-page', {
+    // send to 404-page.handlebars
      title: 'Page Not Found!',
+     //title of page
      layout: '404'
+     //overwrite layout from main.handlebars to 404.handlebars
   });
 
 });
 
 // Listen on the specified port.
 app.listen(port, function () {
-  console.log("== Listening on port", port);
+  console.log("== Listening on port", port, " \n== Visit http://localhost:"+port+"/", "to see the website.");
 });
