@@ -5,8 +5,8 @@
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 # Oregon State University Robotics' Website
 
+<span style="display:block;text-align:center"><div style="text-align:center"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQACcaJrcJ4CBAkxtohhHF5PpsujwSj6NJSnU472st9LiryI-ej8w" width=350px; /></div></span>
 
-<div style="text-align:center"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQACcaJrcJ4CBAkxtohhHF5PpsujwSj6NJSnU472st9LiryI-ej8w" width=350px; /></div>
 
 
 This is the website for the Oregon State University Robotics Club.
