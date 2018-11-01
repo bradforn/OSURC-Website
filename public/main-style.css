@@ -22,3 +22,17 @@
   opacity: .98;
 
 }
+
+.main-page-paragraph {
+  font-family:'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  color: #FFFFFF;
+  
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  text-align: justify;
+}
