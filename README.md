@@ -1,6 +1,6 @@
 <!--[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]-->
-
+<!-- These fancy tags are not setup correctly. They are reflecting someone else's repo :( -->
 [![Dependency Status](https://img.shields.io/david/nodejs/nodejs.org.svg)](https://david-dm.org/nodejs/nodejs.org)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 # Oregon State University Robotics' Website
@@ -49,7 +49,7 @@ npm start
 * 0.0.1
     * Just starting off trying to free ourselfs of the evil entity that is WordPress...
 
-## Contributers 
+## Contributers
 
 (Your Name) – YourEmail@example.com
 
